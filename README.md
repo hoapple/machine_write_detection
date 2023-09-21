@@ -4,6 +4,8 @@ As large language models (LLMs) evolve, machines are becoming increasingly adept
 
 This study addresses the challenge of detecting AI-generated text by crafting a binary machine learning classifier. We explored and compared the efficacy of Random Forest (RF), XGBoost, Logistic Regression (LR), Support Vector Machines (SVM), Multilayer Perceptron (MLP), and Recurrent Neural Network (RNN).
 
+# Directory
+Meeting notes for this project can be found in `\meeting\` directory
 All of our explorations and comparisons of models can be found in `\notebook\` directory
 Our final model: `Final prediction` part in `\notebook\MLP_final.ipynb`
 The `requirement.txt` contains the environment to run the scripts. User can use `pip install -r requirements.txt` command to install all of the Python modules and packages listed in the requirements.txt file.
