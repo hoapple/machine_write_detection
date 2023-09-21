@@ -6,3 +6,4 @@ This study addresses the challenge of detecting AI-generated text by crafting a 
 
 All of our explorations and comparisons of models can be found in `\notebook\` directory
 Our final model: `Final prediction` part in `\notebook\MLP_final.ipynb`
+The `requirement.txt` contains the environment to run the scripts. User can use `pip install -r requirements.txt` command to install all of the Python modules and packages listed in the requirements.txt file.
